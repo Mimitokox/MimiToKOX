@@ -13,8 +13,7 @@ Video Editing • 2D Animation (AE) • Discord Bots • AI API • Minecraft pl
 Reverse Engineering • Unity Game Dev • Assembly<br>
 <br>
 <b>Stats</b> 📊<br>
-![Epsilon token usage](https://dashboard.epsiloncode.eu/api/card/1206854982679269398.MspNJJAP0pFktYjE.svg)
-<br>
+<img src="https://dashboard.epsiloncode.eu/api/card/1206854982679269398.MspNJJAP0pFktYjE.svg" alt="Epsilon token usage" /><br>
 <img src="off"/><br>
 <br>
 <b>Contact</b> 📛<br>
